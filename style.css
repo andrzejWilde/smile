@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background-color: #FFBF00;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.smile {
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 32px;
+}
+
+.smile span {
+  transition: color 0.2s;
+}
